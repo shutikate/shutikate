@@ -53,7 +53,7 @@
   ### :open_file_folder: Educational projects:
   <div>
     <a href="https://shutikate.github.io/momentum/">
-      Momentum 
+      Momentum (JS)
     </a>
     -
     <a href="https://github.com/shutikate/momentum">
@@ -61,11 +61,69 @@
     </a>
   </div>
   <div>
+    <a href="https://shutikate.github.io/travel/">
+      Travel (JS)
+    </a>
+    -
+    <a href="https://github.com/shutikate/travel">
+      Repository
+    </a>
+  </div>
+  <div>
+    <a href="https://shutikate.github.io/online-zoo/pages/main">
+      Online Zoo (JS)
+    </a>
+    -
+    <a href="https://github.com/shutikate/online-zoo">
+      Repository
+    </a>
+  </div>
+  <div>
+    <a href="https://shutikate.github.io/puzzle-game/">
+      Puzzle Game (JS)
+    </a>
+    -
+    <a href="https://github.com/shutikate/puzzle-game">
+      Repository
+    </a>
+  </div>
+  <div>
+    <a href="https://shutikate.github.io/songbird/">
+      SongBird Quiz (JS)
+    </a>
+    -
+    <a href="https://github.com/shutikate/songbird">
+      Repository
+    </a>
+  </div>
+  <div>
     <a href="https://development--fantastic-maamoul-87ae4e.netlify.app/">
-      Online-Store
+      Online-Store (React + TS)
     </a>
     -
     <a href="https://github.com/shutikate/online-store">
+      Repository
+    </a>
+  </div>
+  <div>
+    <a href="https://alienteam-rsdoctors.netlify.app">
+      RS Doctors (React + TS + AWS)
+    </a>
+    -
+    <a href="https://github.com/rss-clone-alienteam/rs-doctors-front">
+      Repository Front
+    </a>
+    / 
+    <a href="https://github.com/rss-clone-alienteam/rs-doctors-back">
+      Repository Back
+    </a>
+  </div>
+  <div>
+    <a href="https://graphiql-app-git-develop-anhelina.vercel.app">
+      GraphiQL (React + TS + Next)
+    </a>
+    -
+    <a href="https://github.com/shutikate/graphiql-app">
       Repository
     </a>
   </div>
