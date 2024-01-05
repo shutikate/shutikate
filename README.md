@@ -44,10 +44,10 @@
   
   ### :book: Languages:
   - Russian (native)
-  - English (A2)
-  - Italian (B1)
+  - English (B1)
+  - Italian (B2)
   - Polish (A2)
-  
+
   ---
   
   ### :open_file_folder: Educational projects:
